@@ -1,14 +1,18 @@
-# Python-DataScience-AI-Fundamentals
+# Python For Data Science Ai Development
 
-Comprehensive resources and coding examples for learning the fundamentals of Data Science and AI development using Python. Based on industry-leading curriculum and practical projects.
+Core scripts and notes for Python-based Data Science and AI development.
 
-## ┬┐ Topics Covered
-- **Data Manipulation**: Mastery of Pandas, NumPy, and Matplotlib.
-- **Statistical Analysis**: Techniques for exploratory data analysis (EDA).
-- **Machine Learning**: Introduction to Scikit-Learn and model evaluation.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `notebooks/`: Practical exercises and tutorial solutions.
+## Tech Stack
+- **Primary**: Python
+- **Domain**: Data Science
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
